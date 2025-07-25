@@ -21,7 +21,7 @@ To run this project, you need the following dependencies installed **(or use the
 - PyTorch Geometric 2.0.4  
 - PyRosetta ≥ 2021.38+release.4d5a969  
 
-Alternatively, you can run everything inside a [Singularity container](https://yourdomain.com/containers/MViewEMA_v0.1.sif) to avoid dependency issues (container size: 7.31 GB).
+Alternatively, you can run everything inside a [Singularity container](http://zhanglab-bioinf.com/DeepUMQA-X/static/env.sif) to avoid dependency issues (container size: 7.31 GB).
 
 ---
 
