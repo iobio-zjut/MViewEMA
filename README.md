@@ -90,6 +90,4 @@ Includes predicted models, experimental structures, and EMA results.
 [CASP16 EMA Data](https://predictioncenter.org/download_area/CASP16/)
 Includes predicted models, experimental structures, and EMA results.
 
-[CASP16 Blind Results](https://predictioncenter.org/casp16/results.cgi?tr_type=accuracy): Blind test performance of all EMA groups.
-
 [PDB-2024 Targets](https://www.rcsb.org/): Estimation for docking models.
